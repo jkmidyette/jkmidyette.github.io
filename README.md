@@ -1,5 +1,5 @@
 # jkmidyette.github.io
-- Justin Kenki Midyette, justin@carolnasafety.com
+- Justin Kenji Midyette, justin@carolnasafety.com
 - My username is jkmidyette, I created my first GitHub repository
 - My first GitHub repository is named "jkmidyette.github.io"
 - In the GitHub Desktop, I clicked on the repository I just created.
